@@ -32,9 +32,6 @@ RAG-PDF-Convo-Bot is a chatbot that allows users to upload a PDF document and in
 ## How to run?
 Simply go to https://insightbot-3x71.onrender.com and use as started above. Yes it's that simple 😊
 
-## Contributing
-
-Contributions are welcome! Just drop an E-Mail at msinghmayank62@gmail.com
 
 
 
